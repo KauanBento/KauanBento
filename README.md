@@ -1,4 +1,4 @@
-### Olá! Eu sou Kauan Bento, estou no último ano do curso de técnico em informática no IFBA e pretendo começar a trabalhar na área para adquirir experiência de trabalho e assim poder continuar e me especializar na área.
+### Olá! Eu sou Kauan Bento, estou no último ano do curso de técnico em informática no IFBA e também cursando um curso de profissionalismo da área de Full-stack, pretendo futuramente começar a trabalhar na área para adquirir experiência de trabalho e assim poder continuar e me especializar na área.
 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanBento&show_icons=true&theme=dracula)
