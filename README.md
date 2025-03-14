@@ -1,4 +1,4 @@
-### Olá! Eu sou Kauan Bento, estou no último ano do curso de técnico em informática no IFBA e também cursando um curso de profissionalismo da área de Full-stack, pretendo futuramente começar a trabalhar na área para adquirir experiência de trabalho e assim poder continuar e me especializar na área.
+### Olá! Eu sou Kauan Bento, formado no curso de técnico em informática no IFBA, cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e aprofundando conhecimentos em Desenvolvimento Fullstack (.NET + Angular 13+) pelo programa Residência em Software – CEPEDI. Atualmente, estou em busca da primeira oportunidade profissional na área de TI, com foco em desenvolvimento de software e suporte técnico. Quero adquirir experiência prática e continuar me especializando na área!
 
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanBento&show_icons=true&theme=dracula)
@@ -12,3 +12,5 @@
   <img aling="center" alt="ts" src="https://img.shields.io/badge/TyperScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img aling="center" alt="js" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" />
 </div>
+
+### Contato - E-mail: kauanbentoo951@gmail.com
